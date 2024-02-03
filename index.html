@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rasslonely</title>
+    <link rel="icon" href="./Foto/Logo Rasslonely.jpg">
+    <link rel="stylesheet" href="CSS/style.css">
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <script src="https://kit.fontawesome.com/c9f5871d83.js" crossorigin="anonymous"></script>
+</head>
+<body>
+    <!-- Navbar Start -->
+    <div class="navbar-container">
+        <div class="navbar">
+            <ul class="navbar-logo">
+                <li>Rasslonely</li>
+            </ul>
+            <ul class="navbar-ul">
+                <li><a href="#">Home</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#medsos">Medsos</a></li>
+            </ul>
+            <div class="navbar-toggle">
+                <input type="checkbox">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+        </div>
+    </div>
+    <!-- Navbar End -->
+
+    <!-- Home Start -->
+    <div class="slider-container">
+        <div class="slides">
+            <div class="slide">
+                <div class="logo">
+                    <img src="foto/programming.png" alt="">
+                </div>
+                <div class="text">
+                    <h3>Programming</h3>
+                    <p>Seperti code yang rapi, cinta yang tulus membangun hubungan yang kokoh di dalam dan di luar kurung kurawal kehidupan kita.</p>
+                </div>
+            </div>
+            <div class="slide">
+                <div class="logo-content-creator">
+                    <img src="foto/content-creator.png" alt="">
+                </div>
+                <div class="text">
+                    <h3>Content Creator</h3>
+                    <p>Membuat konten adalah seni menceritakan kisah kita, dan setiap postingan adalah bab baru dari buku kehidupan digital kita.</p>
+                </div>
+            </div>
+            <div class="slide">
+                <div class="logo-musik">
+                    <img src="foto/musik.png" alt="">
+                </div>
+                <div class="text">
+                    <h3>Music</h3>
+                    <p>Mendengarkan musik adalah seperti merayakan cinta. Setiap not dan lirik adalah kecupan lembut dari melodi yang menciptakan harmoni di dalam hati.</p>
+                </div>
+            </div>
+            <div class="slide">
+                <div class="logo-musik">
+                    <img src="foto/game.png" alt="">
+                </div>
+                <div class="text">
+                    <h3>Gaming</h3>
+                    <p>Seperti karakter dalam game, kamu adalah pilihan quest terbaikku. Aku selalu ingin menjalani petualangan bersamamu.</p>
+                </div>
+            </div>
+            <!-- Add more slides as needed -->
+        </div>
+        <button class="prev-btn" onclick="prevSlide()">❮</button>
+        <button class="next-btn" onclick="nextSlide()">❯</button>
+    </div>
+    <!-- Home End -->
+
+    <!-- About Start -->
+    <div class="about-container" id="about">
+        <div class="profile" data-aos="fade-up">
+            <img src="foto/profile.jpg" alt="">
+        </div>
+        <div class="deskripsi-profile" data-aos="fade-up">
+            <h3>Muhammad Farras Prasetya</h3>
+            <p>
+                Aku adalah arsitek dari kisah hidupku, membangun fondasi dari pengalaman dan mimpi. Dalam konstruksi diriku, setiap batu bata adalah langkah menuju kekuatan sejati.
+            </p>
+        </div>
+    </div>
+    <div class="skill-container">
+        <h3>My Skill</h3>
+        <div class="skill">
+            <div class="programming-skill" data-aos="fade-up-right">
+                <div class="skill-logo-programming">
+                    <h3>Programming</h3>
+                    <img src="foto/programming.png" alt="">
+                </div>
+                <hr style="margin-bottom: 10px;">
+                <div class="skill-programming-text">
+                    <p data-aos="zoom-in">HTML</p>
+                    <p data-aos="zoom-in">CSS</p>
+                    <p data-aos="zoom-in">Javascript</p>
+                    <p data-aos="zoom-in">C</p>
+                </div>
+            </div>
+            <div class="musik-skill" data-aos="fade-up-left">
+                <div class="skill-logo-programming">
+                    <h3>Gaming</h3>
+                    <img src="foto/game.png" alt="" style="width: 200px;">
+                </div>
+                <hr style="margin-bottom: 10px;">
+                <div class="skill-programming-text">
+                    <p data-aos="zoom-in">Mobile Legend</p>
+                    <p data-aos="zoom-in">Roblox</p>
+                    <p data-aos="zoom-in">Minecraft</p>
+                    <p data-aos="zoom-in">Valorant</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- About End -->
+
+    <!-- FOOTER -->
+    <section class="footer" id="medsos">
+        <div class="footer-content" data-aos="fade-right">
+            <img src="Foto/rasslonely.png">
+            <p>Terima kasih atas support dari kalian semoga <br> web saya bisa bermanfaat untuk kalian semua </p>
+            <div class="icon">
+                <a href="#" class="fa-brands fa-tiktok"></a>
+                <a href="#" class="fa-brands fa-instagram"></a>
+                <a href="#" class="fa-brands fa-youtube"></a>
+            </div>
+        </div>
+
+        <div class="footer-content">
+            <h4 data-aos="fade-up">Company</h4>
+            <li data-aos="fade-up"><a href="#">Home</a></li>
+            <li data-aos="fade-up"><a href="#about-me">About</a></li>
+            <li data-aos="fade-up"><a href="#">Services</a></li>
+            <li data-aos="fade-up"><a href="#">Tutorial</a></li>
+        </div>
+
+        <div class="footer-content">
+            <h4 data-aos="fade-up">About</h4>
+            <li data-aos="fade-up"><a href="#">Karir</a></li>
+            <li data-aos="fade-up"><a href="#">Blog</a></li>
+            <li data-aos="fade-up"><a href="#">Tentang</a></li>
+            <li data-aos="fade-up"><a href="#">Kontak kami</a></li>
+        </div>
+
+        <div class="footer-content">
+            <h4 data-aos="fade-up">Services</h4>
+            <li data-aos="fade-up"><a href="#">Domain</a></li>
+            <li data-aos="fade-up"><a href="#">Transfer</a></li>
+            <li data-aos="fade-up"><a href="#">Website</a></li>
+            <li data-aos="fade-up"><a href="#">Bantuan</a></li>
+        </div>
+
+        <div class="footer-content">
+            <h4 data-aos="fade-up">Tutorial</h4>
+            <li data-aos="fade-up"><a href="#">HTML</a></li>
+            <li data-aos="fade-up"><a href="#">CSS</a></li>
+            <li data-aos="fade-up"><a href="#">JavaScript</a></li>
+            <li data-aos="fade-up"><a href="#">Python</a></li>
+        </div>
+    </section>
+    <!-- FOOTER END -->
+    <script src="javascript/script.js"></script>
+    <script>
+        AOS.init();
+    </script>
+</body>
+</html>
