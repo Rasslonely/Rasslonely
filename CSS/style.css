@@ -17,7 +17,6 @@ body {
   height: 100vh;
   background-color: rgb(105, 112, 117);
   color: white;
-  margin-top: 10vh;
   overflow-x: hidden;
 }
 
@@ -123,14 +122,16 @@ body {
 .slider-container {
   position: relative;
   width: 100%;
-  margin-top: 50px auto;
+  margin-top: 0px auto;
   overflow: hidden;
 }
 
 .slides {
   display: flex;
   transition: transform 0.5s ease-in-out;
-  height: 90vh;
+  height: 100vh;
+  align-items: center;
+  justify-content: space-between;
 }
 
 .slide {
@@ -439,6 +440,7 @@ img {
     justify-content: space-evenly;
     align-items: center;
     height: 100vh;
+    width: 100%;
     transform: translateX(100%);
     transition: all 1s;
     opacity: 0;
@@ -459,14 +461,14 @@ img {
   .slider-container {
     position: relative;
     width: 100%;
-    margin-top: 50px auto;
+    margin-top: 0px auto;
     overflow: hidden;
   }
 
   .slides {
     display: flex;
     transition: transform 0.5s ease-in-out;
-    height: 90vh;
+    height: 100vh;
   }
 
   .slide {
@@ -482,27 +484,24 @@ img {
     position: absolute;
     width: 300px;
     margin-left: -40px;
-    top: 50px;
   }
 
   .logo-content-creator img {
     position: absolute;
     width: 300px;
     margin-left: -40px;
-    top: 50px;
   }
 
   .logo-musik img {
     position: absolute;
     width: 300px;
     margin-left: -40px;
-    top: 50px;
   }
 
   .slide .text {
     font-size: 15px;
     margin-left: 0px;
-    margin-top: 20px;
+    margin-top: -30px;
     text-align: center;
   }
 
