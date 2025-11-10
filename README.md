@@ -1,4 +1,4 @@
-### Hi there 👋
+### IT undergraduate passionate about Web3, blockchain, and decentralized application (DApp) development. Skilled in programming, problem-solving, and educational content creation, with hands-on experience building mini blockchain projects. Committed to leveraging technology for innovation, collaboration, and real-world impact.
 
 <!--
 **Rasslonely/Rasslonely** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
