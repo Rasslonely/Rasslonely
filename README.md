@@ -58,14 +58,18 @@ Here are some of the projects I've engineered, ranging from AI Healthtech to Dec
 
 ### 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rasslonely&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2563EB&icon_color=7000FF" alt="Rasslonely's Github Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rasslonely&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2563EB" alt="Top Languages" />
-</p>
+### 📊 GitHub Analytics
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rasslonely&theme=tokyonight&hide_border=true&background=0D1117&ring=2563EB&fire=2563EB&currStreakLabel=2563EB" alt="Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://metrics.lecoq.io/Rasslonely?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=0&languages=1&languages.limit=8&config.timezone=Asia%2FJakarta" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://metrics.lecoq.io/Rasslonely?template=classic&base.header=0&base.activity=1&base.community=1&base.repositories=1&base.metadata=0&isocalendar=0&languages=0&config.timezone=Asia%2FJakarta" alt="Github Stats" />
 </p>
 
 ---
