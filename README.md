@@ -12,7 +12,7 @@
   <a href="mailto:rasstiens@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://rasslonely.com">
+  <a href="https://rasslonely.my.id">
     <img src="https://img.shields.io/badge/Portfolio-Visit_Website-7000FF?style=for-the-badge&logo=framer&logoColor=white" />
   </a>
 </div>
