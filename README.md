@@ -58,8 +58,6 @@ Here are some of the projects I've engineered, ranging from AI Healthtech to Dec
 
 ### 📊 GitHub Analytics
 
-### 📊 GitHub Analytics
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rasslonely&theme=tokyonight&hide_border=true&background=0D1117&ring=2563EB&fire=2563EB&currStreakLabel=2563EB" alt="Streak Stats" />
 </p>
