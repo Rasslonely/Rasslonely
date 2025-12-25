@@ -58,14 +58,15 @@ Here are some of the projects I've engineered, ranging from AI Healthtech to Dec
 
 ### 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rasslonely&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2563EB&icon_color=7000FF" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rasslonely&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2563EB" height="180" alt="languages graph" />
-</div>
-<br>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rasslonely&theme=tokyonight&hide_border=true&background=0D1117&ring=2563EB&fire=2563EB&currStreakLabel=2563EB" alt="streak graph" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rasslonely&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2563EB&icon_color=7000FF" alt="Rasslonely's Github Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rasslonely&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2563EB" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rasslonely&theme=tokyonight&hide_border=true&background=0D1117&ring=2563EB&fire=2563EB&currStreakLabel=2563EB" alt="Streak Stats" />
+</p>
 
 ---
 
